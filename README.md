@@ -41,9 +41,3 @@ neural network mechanics and gain practical implementation experience.
 with annotated emotions. Built and trained a convolutional neural network (CNN) to extract features
 and classify emotions, leveraging transfer learning and fine-tuning techniques for improved accuracy.
 *   [Flood Prediction Competition on Kaggle](https://github.com/zarzd/ML_competitions/tree/main/Flood_prediction) - I participated in the Flood Prediction Competition on Kaggle, applying machine learning techniques to predict the probability of flooding using historical weather data, terrain features, and other factors. I utilized data exploration, cleaning, and feature engineering to extract meaningful insights and enhance model performance. This experience honed my skills in working with real-world data, applying advanced machine learning techniques, and contributing to a critical societal issue - flood prediction.
-
-<div align="center" style="margin: 40px 0">
-   <a href="https://github.com/zarzd/github-profile-views-counter">
-       <img width="175px" src="https://komarev.com/ghpvc/?username=zarzd&color=DE002D">
-   </a>
-</div>
